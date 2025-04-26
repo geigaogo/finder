@@ -36,7 +36,7 @@ p {
 }
 
 input[type="text"] {
-    width: 60%;
+    width: 70%;
     padding: 10px;
     font-size: 16px;
     border: 1px solid #555;
@@ -69,7 +69,8 @@ button {
     background-color: #00d1ff;
     color: black;
     cursor: pointer;
-    transition: background-color 0.3s, transform 0.2s;
+    transition: background-color 0.3s,transform 0.2s;
+    margin-top: 15px;
 }
 
 button:hover {
