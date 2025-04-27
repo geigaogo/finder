@@ -12,7 +12,7 @@ function generateLinks() {
         { id: 'hypixel', url: `https://hypixel.net/player/${username}` },
         { id: 'bluesky', url: `https://bsky.app/profile/${username}` },
         { id: 'threads', url: `https://www.threads.net/@${username}` },
-        { id: 'youtube', url: `https://www.youtube.com/${username}` },
+        { id: 'youtube', url: `https://www.youtube.com/@${username}` },
         { id: 'twitch', url: `https://www.twitch.tv/${username}` },
     ];
 
